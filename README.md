@@ -1,2 +1,3 @@
 # KPO_2sem
-Labs for 2nd semestr | 12th variant
+Лабы 2 сем | 12-й вариант
+SE - Software Engeneerig (КПО - Конструирование Программного Обеспечения)
